@@ -1,0 +1,15 @@
+.build/
+.swiftpm/
+*.xcodeproj/
+firmware/archives/
+.DS_Store
+docs/vendor/
+
+# Stray compiler outputs (swiftpm sometimes drops these in the repo root)
+*.o
+*.d
+*.swiftdeps
+*.swiftdeps~
+
+# Python bytecode
+__pycache__/
