@@ -1,0 +1,1739 @@
+[
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.1",
+    "software_id": "J5V13F02",
+    "file": "j5v13f02.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v13f02.zip",
+    "date": "28-10-1999",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Старая не серийная версия, одновременный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V13F02\n\n28-10-1999",
+    "local_dir": "j5/j5v13f02",
+    "archive": "archives/j5v13f02.zip",
+    "files": [
+      {
+        "path": "j5/j5v13f02/J5V13F02.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.1",
+    "software_id": "J5V13H02",
+    "file": "j5v13h02.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v13h02.zip",
+    "date": "16-02-2000",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Первая серийная версия, одновременный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V13H02\n\n16-02-2000",
+    "local_dir": "j5/j5v13h02",
+    "archive": "archives/j5v13h02.zip",
+    "files": [
+      {
+        "path": "j5/j5v13h02/J5V13H02.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v13h02/J5V13H02.TXT",
+        "size": 489,
+        "kind": "489 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.1",
+    "software_id": "J5V13I02",
+    "file": "j5v13i02.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v13i02.zip",
+    "date": "27-03-2000",
+    "checksum_published": "B4CE",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Вторая серийная версия, одновременный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V13I02\n\n27-03-2000\n\nКС #B4CE",
+    "local_dir": "j5/j5v13i02",
+    "archive": "archives/j5v13i02.zip",
+    "files": [
+      {
+        "path": "j5/j5v13i02/J5V13I02.txt",
+        "size": 476,
+        "kind": "476 Б"
+      },
+      {
+        "path": "j5/j5v13i02/J5v13i02.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.1",
+    "software_id": "J5V13L05",
+    "file": "j5v13l05.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v13l05.zip",
+    "date": "06-01-2004",
+    "checksum_published": "0303",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Третья серийная версия, одновременный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V13L05\n\n06-01-2004\n\nКС #0303",
+    "local_dir": "j5/j5v13l05",
+    "archive": "archives/j5v13l05.zip",
+    "files": [
+      {
+        "path": "j5/j5v13l05/EEPRL05.bin",
+        "size": 512,
+        "kind": "EEPROM"
+      },
+      {
+        "path": "j5/j5v13l05/J5V13L05.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.1",
+    "software_id": "A5V13L05",
+    "file": "a5v13l05.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/a5v13l05.rar",
+    "date": "06-01-2004",
+    "checksum_published": "22A2",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Последняя (третья) серийная версия, одновременный впрыск, широкополосный датчик детонации. Прошивка «АВТЭЛ»,  с новым каналом обработки ДД, несовместимое ПО.",
+    "id_cell_raw": "A5V13L05\n\n06-01-2004\n\nКС #22A2",
+    "local_dir": "j5/a5v13l05",
+    "archive": "archives/a5v13l05.rar",
+    "files": [
+      {
+        "path": "j5/a5v13l05/A5V13L05.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/a5v13l05/A5V13L05.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03F21",
+    "file": "j5v03f21.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03f21.zip",
+    "date": "27-11-1999",
+    "checksum_published": "63D6",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Редкая серийная версия. ПП впрыск, широкополосный ДД",
+    "id_cell_raw": "J5V03F21\n\n27-11-1999\n\nКС #63D6",
+    "local_dir": "j5/j5v03f21",
+    "archive": "archives/j5v03f21.zip",
+    "files": [
+      {
+        "path": "j5/j5v03f21/j5v03f21.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03G21",
+    "file": "j5v03g21.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03g21.zip",
+    "date": "27-11-1999",
+    "checksum_published": "647A",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Первая серийная версия, попарно-параллельный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V03G21\n\n27-11-1999\n\nКС #647A",
+    "local_dir": "j5/j5v03g21",
+    "archive": "archives/j5v03g21.zip",
+    "files": [
+      {
+        "path": "j5/j5v03g21/j5v03g21.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v03g21/j5v03g21.txt",
+        "size": 378,
+        "kind": "378 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03H21",
+    "file": "j5v03h21.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03h21.zip",
+    "date": "16-02-2000",
+    "checksum_published": "EF63",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Вторая серийная версия, попарно-параллельный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V03H21\n\n16-02-2000\n\nКС #EF63",
+    "local_dir": "j5/j5v03h21",
+    "archive": "archives/j5v03h21.zip",
+    "files": [
+      {
+        "path": "j5/j5v03h21/J5V03H21.txt",
+        "size": 439,
+        "kind": "439 Б"
+      },
+      {
+        "path": "j5/j5v03h21/J5v03h21.abs",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03I21",
+    "file": "j5v03i21.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03i21.zip",
+    "date": "25-05-2000",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Третья серийная версия, попарно-параллельный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V03I21\n\n25-05-2000",
+    "local_dir": "j5/j5v03i21",
+    "archive": "archives/j5v03i21.zip",
+    "files": [
+      {
+        "path": "j5/j5v03i21/J5V03I21.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v03i21/J5V03I21.TXT",
+        "size": 496,
+        "kind": "496 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03J21",
+    "file": "j5v03j21.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03j21.zip",
+    "date": "02-03-2001",
+    "checksum_published": "552B",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Четвертая серийная версия, попарно-параллельный впрыск, широкополосный датчик детонации.\n\nДрайверная диагностика ИМ.",
+    "id_cell_raw": "J5V03J21\n\n02-03-2001\n\nКС #552B",
+    "local_dir": "j5/j5v03j21",
+    "archive": "archives/j5v03j21.zip",
+    "files": [
+      {
+        "path": "j5/j5v03j21/J5v03j21.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03K22",
+    "file": "j5v03k22.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03k22.zip",
+    "date": "22-08-2002",
+    "checksum_published": "A84C",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Пятая серийная версия,ПП-впрыск, широкополосный датчик детонации, диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V03K22\n\n22-08-2002\n\nКС #A84C\n\nJ5V03K22a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v03k22",
+    "archive": "archives/j5v03k22.zip",
+    "files": [
+      {
+        "path": "j5/j5v03k22/J5v03k22.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03K22",
+    "file": "j5v03k22a.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03k22a.zip",
+    "date": "22-08-2002",
+    "checksum_published": "A84C",
+    "rom_check_disabled": true,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Пятая серийная версия,ПП-впрыск, широкополосный датчик детонации, диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V03K22\n\n22-08-2002\n\nКС #A84C\n\nJ5V03K22a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v03k22a",
+    "archive": "archives/j5v03k22a.zip",
+    "files": [
+      {
+        "path": "j5/j5v03k22a/j5v03k22a.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V03L25",
+    "file": "j5v03l25.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v03l25.zip",
+    "date": "25-08-2003",
+    "checksum_published": "906B",
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Последняя серийная версия",
+    "id_cell_raw": "J5V03L25\n\n25-08-2003\n\nКС #906B",
+    "local_dir": "j5/j5v03l25",
+    "archive": "archives/j5v03l25.zip",
+    "files": [
+      {
+        "path": "j5/j5v03l25/J5V03L25.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "A5V03L25",
+    "file": "a5v03l25.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/a5v03l25.rar",
+    "date": "25-08-2003",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-61",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Последняя серийная версия. Для контроллеров с новым каналом ДД на HIP9011. ПО несовместимо со «старыми» контроллерами.",
+    "id_cell_raw": "A5V03L25\n\n25-08-2003",
+    "local_dir": "j5/a5v03l25",
+    "archive": "archives/a5v03l25.rar",
+    "files": [
+      {
+        "path": "j5/a5v03l25/A5_03L25.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.2",
+    "software_id": "J5V07G26",
+    "file": "j5v07g26.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v07g26.zip",
+    "date": "18-02-2000",
+    "checksum_published": "5A03",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Первая серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V07G26\n\n18-02-2000\n\nКС #5A03",
+    "local_dir": "j5/j5v07g26",
+    "archive": "archives/j5v07g26.zip",
+    "files": [
+      {
+        "path": "j5/j5v07g26/J5V07G26.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v07g26/J5V07G26.TXT",
+        "size": 174,
+        "kind": "174 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.2",
+    "software_id": "J5V07I27",
+    "file": "j5v07i27.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v07i27.zip",
+    "date": "18-07-2001",
+    "checksum_published": "15B6",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V07I27\n\n18-07-2001\n\nКС #15B6\n\nJ5V07I27a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v07i27",
+    "archive": "archives/j5v07i27.zip",
+    "files": [
+      {
+        "path": "j5/j5v07i27/J5v07i27.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.2",
+    "software_id": "J5V07I27",
+    "file": "j5v07i27a.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v07i27a.zip",
+    "date": "18-07-2001",
+    "checksum_published": "15B6",
+    "rom_check_disabled": true,
+    "vaz_number": "2112 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V07I27\n\n18-07-2001\n\nКС #15B6\n\nJ5V07I27a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v07i27a",
+    "archive": "archives/j5v07i27a.zip",
+    "files": [
+      {
+        "path": "j5/j5v07i27a/j5v07i27a.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.2",
+    "software_id": "J5V07J28",
+    "file": "j5v07j28.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v07j28.zip",
+    "date": "11.01.2002",
+    "checksum_published": "CA3F",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Последняя серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V07J28\n\n11.01.2002\n\nКС #CA3F\n\nJ5V07J28a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v07j28",
+    "archive": "archives/j5v07j28.zip",
+    "files": [
+      {
+        "path": "j5/j5v07j28/J5v07j28.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.2",
+    "software_id": "J5V07J28",
+    "file": "j5v07j28a.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v07j28a.zip",
+    "date": "11.01.2002",
+    "checksum_published": "CA3F",
+    "rom_check_disabled": true,
+    "vaz_number": "2112 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Последняя серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V07J28\n\n11.01.2002\n\nКС #CA3F\n\nJ5V07J28a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v07j28a",
+    "archive": "archives/j5v07j28a.zip",
+    "files": [
+      {
+        "path": "j5/j5v07j28a/j5v07j28a.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.2",
+    "software_id": "A5V07J28",
+    "file": "a5v07j28.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/a5v07j28.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-71",
+    "emission_norm": "Р83",
+    "manufacturer_section": null,
+    "note": "Посдедняя серийная версия, фазированный впрыск, широкополосный датчик детонации. Для контроллеров с новым каналом ДД на HIP9011. ПО несовместимо со «старыми» контроллерами.",
+    "id_cell_raw": "A5V07J28",
+    "local_dir": "j5/a5v07j28",
+    "archive": "archives/a5v07j28.rar",
+    "files": [
+      {
+        "path": "j5/a5v07j28/A5V07J28/A5V07J28.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/a5v07j28/A5V07J28/A5V07J28.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05F16",
+    "file": "j5v05f16.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05f16.zip",
+    "date": "18-02-2000",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Первая серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V05F16\n\n18-02-2000",
+    "local_dir": "j5/j5v05f16",
+    "archive": "archives/j5v05f16.zip",
+    "files": [
+      {
+        "path": "j5/j5v05f16/J5V05F16.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v05f16/J5V05F16.txt",
+        "size": 443,
+        "kind": "443 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05F16",
+    "file": "f16cond.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/f16cond.zip",
+    "date": "18-02-2000",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Заводская версия с кондиционером",
+    "id_cell_raw": "J5V05F16\n\n18-02-2000",
+    "local_dir": "j5/f16cond",
+    "archive": "archives/f16cond.zip",
+    "files": [
+      {
+        "path": "j5/f16cond/F16cond.abs",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05H16",
+    "file": "j5v05h16.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05h16.zip",
+    "date": "21-02-2000",
+    "checksum_published": "3C40",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Вторая серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V05H16\n\n21-02-2000\n\nКС #3C40",
+    "local_dir": "j5/j5v05h16",
+    "archive": "archives/j5v05h16.zip",
+    "files": [
+      {
+        "path": "j5/j5v05h16/J5V05H16.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v05h16/J5V05H16.TXT",
+        "size": 494,
+        "kind": "494 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05I16",
+    "file": "j5v05i16.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05i16.zip",
+    "date": "26-05-2000",
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Экзотическая малосерийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V05I16\n\n26-05-2000",
+    "local_dir": "j5/j5v05i16",
+    "archive": "archives/j5v05i16.zip",
+    "files": [
+      {
+        "path": "j5/j5v05i16/j5v05i16.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05J16",
+    "file": "j5v05j16.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05j16.zip",
+    "date": "02-03-2001",
+    "checksum_published": "8B3C",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Третья серийная версия, фазированный впрыск, широкополосный датчик детонации.",
+    "id_cell_raw": "J5V05J16\n\n02-03-2001\n\nКС #8B3C",
+    "local_dir": "j5/j5v05j16",
+    "archive": "archives/j5v05j16.zip",
+    "files": [
+      {
+        "path": "j5/j5v05j16/J5v05j16.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05J16",
+    "file": "J5V05J16-9011-ok.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/J5V05J16-9011-ok.rar",
+    "date": "02-03-2001",
+    "checksum_published": "4F6E",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Третья серийная версия, фазированный впрыск, широкополосный датчик детонации. Работает в ЭБУ с каналом детонации на HIP9011 (выпуск 2005 – 2006 гг.)",
+    "id_cell_raw": "J5V05J16\n\n02-03-2001\n\nКС #4F6E",
+    "local_dir": "j5/J5V05J16-9011-ok",
+    "archive": "archives/J5V05J16-9011-ok.rar",
+    "files": [
+      {
+        "path": "j5/J5V05J16-9011-ok/J5V05J16-9011-ok.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05K17",
+    "file": "j5v05k17.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05k17.zip",
+    "date": "07-05-2002",
+    "checksum_published": "D14D",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Четвертая серийная версия, диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V05K17\n\n07-05-2002\n\nКС #D14D\n\nJ5V05K17a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v05k17",
+    "archive": "archives/j5v05k17.zip",
+    "files": [
+      {
+        "path": "j5/j5v05k17/J5V05K17.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v05k17/J5V05K17.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05K17",
+    "file": "j5v05k17a.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05k17a.zip",
+    "date": "07-05-2002",
+    "checksum_published": "D14D",
+    "rom_check_disabled": true,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Четвертая серийная версия, диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V05K17\n\n07-05-2002\n\nКС #D14D\n\nJ5V05K17a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v05k17a",
+    "archive": "archives/j5v05k17a.zip",
+    "files": [
+      {
+        "path": "j5/j5v05k17a/j5v05k17a.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05L19",
+    "file": "j5v05l19.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05l19.zip",
+    "date": null,
+    "checksum_published": "7602",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Пятая серийная версия, диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V05L19\n\nКС #7602\n\nJ5V05L19a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v05l19",
+    "archive": "archives/j5v05l19.zip",
+    "files": [
+      {
+        "path": "j5/j5v05l19/J5V05L19.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05L19",
+    "file": "j5v05l19a.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05l19a.zip",
+    "date": null,
+    "checksum_published": "7602",
+    "rom_check_disabled": true,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Пятая серийная версия, диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V05L19\n\nКС #7602\n\nJ5V05L19a\n\nотключен контроль ПЗУ",
+    "local_dir": "j5/j5v05l19a",
+    "archive": "archives/j5v05l19a.zip",
+    "files": [
+      {
+        "path": "j5/j5v05l19a/J5v05l19a.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05M30",
+    "file": "j5v05m30.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05m30.zip",
+    "date": "05-11-2003",
+    "checksum_published": "A71C",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Шестая серийная версия,  диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V05M30\n\n05-11-2003\n\nКС #A71C",
+    "local_dir": "j5/j5v05m30",
+    "archive": "archives/j5v05m30.zip",
+    "files": [
+      {
+        "path": "j5/j5v05m30/j5v05m30.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "J5V05N35",
+    "file": "j5v05n35.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v05n35.zip",
+    "date": "11-02-2004",
+    "checksum_published": "3F4B",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Последняя (седьмая) серийная версия,  диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.",
+    "id_cell_raw": "J5V05N35\n\n11-02-2004\n\nКС #3F4B",
+    "local_dir": "j5/j5v05n35",
+    "archive": "archives/j5v05n35.zip",
+    "files": [
+      {
+        "path": "j5/j5v05n35/J5V05N35.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v05n35/J5V05N35.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1",
+    "software_id": "A5V05N35",
+    "file": "a5v05n35.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/a5v05n35.rar",
+    "date": "11-02-2004",
+    "checksum_published": "5E9A",
+    "rom_check_disabled": false,
+    "vaz_number": "2112 – 1411020-41",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Последняя (седьмая) серийная версия,  диагностика ИМ (драйверная диагн.), поддержка имм АПС‑4, режим обхода ф‑ции иммобилизации, диагностика пропусков воспламенения, доп. реле стартера.\n\nПрошивка АВТЭЛ. Под новый канал ДД на HIP9011. Несовместимое со старыми версиями ПО",
+    "id_cell_raw": "A5V05N35\n\n11-02-2004\n\nКС #5E9A",
+    "local_dir": "j5/a5v05n35",
+    "archive": "archives/a5v05n35.rar",
+    "files": [
+      {
+        "path": "j5/a5v05n35/A5V05N35.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/a5v05n35/A5V05N35.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.3",
+    "software_id": "J5V26K23",
+    "file": "j5v26k23.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v26k23.zip",
+    "date": null,
+    "checksum_published": "968D",
+    "rom_check_disabled": false,
+    "vaz_number": "2104 – 1411020-01",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Первая серийная версия. ДК, адсорбер, катализатор. Нет датчиков фаз и детонации.",
+    "id_cell_raw": "J5V26K23\n\nКС #968D",
+    "local_dir": "j5/j5v26k23",
+    "archive": "archives/j5v26k23.zip",
+    "files": [
+      {
+        "path": "j5/j5v26k23/J5V26K23.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v26k23/J5V26K23.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      },
+      {
+        "path": "j5/j5v26k23/J5V26K23.txt",
+        "size": 355,
+        "kind": "355 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 5.1.x",
+    "ecu": "5.1.3",
+    "software_id": "J5V26L52",
+    "file": "j5v26l52.zip",
+    "url": "https://chiptuner.ru/wp-content/firmware/J5x/j5v26l52.zip",
+    "date": "01-03-2004",
+    "checksum_published": "DD82",
+    "rom_check_disabled": false,
+    "vaz_number": "2104 – 1411020-01",
+    "emission_norm": "Е2",
+    "manufacturer_section": null,
+    "note": "Вторая серийная версия. ДК, адсорбер, катализатор. Нет датчиков фаз и детонации.",
+    "id_cell_raw": "J5V26L52\n\n01-03-2004\n\nCRC #DD82",
+    "local_dir": "j5/j5v26l52",
+    "archive": "archives/j5v26l52.zip",
+    "files": [
+      {
+        "path": "j5/j5v26l52/j5v26l52.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j5/j5v26l52/j5v26l52.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I203EK33",
+    "file": "i203ek33.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i203ek33.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-82",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "Досерийная товарная версия, считана с автомобиля. Выпущено всего 48 авто.",
+    "id_cell_raw": "I203EK33",
+    "local_dir": "j72/i203ek33",
+    "archive": "archives/i203ek33.rar",
+    "files": [
+      {
+        "path": "j72/i203ek33/I203EK33.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I203EK34",
+    "file": "i203ek34.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i203ek34.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-82",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "1 Серийная версия\n\nСогласно ИП ВАЗ №70 – 2005‑И признана дефектной",
+    "id_cell_raw": "I203EK34",
+    "local_dir": "j72/i203ek34",
+    "archive": "archives/i203ek34.rar",
+    "files": [
+      {
+        "path": "j72/i203ek34/I203EK34_KC_0048/I203EK34.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i203ek34/I203EK34_KC_0048/I203EK34.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      },
+      {
+        "path": "j72/i203ek34/I203ЕК34_KC_FE76/I203EK34.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i203ek34/I203ЕК34_KC_FE76/I203EK34.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I203EL35",
+    "file": "i203el35.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i203el35.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-82",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "2 Серийная версия\n\nСогласно ИП ВАЗ №70 – 2005‑И признана дефектной",
+    "id_cell_raw": "I203EL35",
+    "local_dir": "j72/i203el35",
+    "archive": "archives/i203el35.rar",
+    "files": [
+      {
+        "path": "j72/i203el35/I203EL35_7DDA.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i203el35/I203EL35_7DDA.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I203EL36",
+    "file": "i203el36.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i203el36.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-82",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "3 Серийная версия",
+    "id_cell_raw": "I203EL36",
+    "local_dir": "j72/i203el36",
+    "archive": "archives/i203el36.rar",
+    "files": [
+      {
+        "path": "j72/i203el36/I203el36.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I204DM52",
+    "file": "i204dm52.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i204dm52.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21114 – 1411020-32",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "1 Серийная версия для двигателя 21114 (1,6). Отсутствует в офиц. информации  ВАЗ",
+    "id_cell_raw": "I204DM52",
+    "local_dir": "j72/i204dm52",
+    "archive": "archives/i204dm52.rar",
+    "files": [
+      {
+        "path": "j72/i204dm52/I204DM52.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i204dm52/I204DM52.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I204DM53",
+    "file": "i204dm53.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i204dm53.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21114 – 1411020-32",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "2 Серийная версия для двигателя 21114 (1,6)",
+    "id_cell_raw": "I204DM53",
+    "local_dir": "j72/i204dm53",
+    "archive": "archives/i204dm53.rar",
+    "files": [
+      {
+        "path": "j72/i204dm53/I204DM53.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I204DO57",
+    "file": "i204do57.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i204do57.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21114 – 1411020-32",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "3 Серийная версия для двигателя 21114 (1,6). В прошивке исправлена алгоритмическая ошибка, приводящая к переобогащению при сбросе газа. Первая прошивка 8V с функцией регистратора (неактивировано).",
+    "id_cell_raw": "I204DO57",
+    "local_dir": "j72/i204do57",
+    "archive": "archives/i204do57.rar",
+    "files": [
+      {
+        "path": "j72/i204do57/I204DO57.BIN",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I205DM52",
+    "file": "i205dm52.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i205dm52.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21124 – 1411020-32",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "Досерийная версия для двигателя 21124 (1,6)",
+    "id_cell_raw": "I205DM52",
+    "local_dir": "j72/i205dm52",
+    "archive": "archives/i205dm52.rar",
+    "files": [
+      {
+        "path": "j72/i205dm52/i205DM52.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i205dm52/i205DM52.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      },
+      {
+        "path": "j72/i205dm52/i205DM52.txt",
+        "size": 150,
+        "kind": "150 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I205DM53",
+    "file": "i205dm53.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i205dm53.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21124 – 1411020-32",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "1 Серийная версия для двигателя 21124 (1,6)",
+    "id_cell_raw": "I205DM53",
+    "local_dir": "j72/i205dm53",
+    "archive": "archives/i205dm53.rar",
+    "files": [
+      {
+        "path": "j72/i205dm53/I205DM53-D909.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i205dm53/config.txt",
+        "size": 238,
+        "kind": "238 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I205DO54",
+    "file": "i205do54.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i205do54.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21124 – 1411020-32",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "2 Серийная версия для двигателя 21124 (1,6). В прошивке исправлена алгоритмическая ошибка, приводящая к переобогащению при сбросе газа. Первая прошивка 16V с функцией регистратора (неактивировано).",
+    "id_cell_raw": "I205DO54",
+    "local_dir": "j72/i205do54",
+    "archive": "archives/i205do54.rar",
+    "files": [
+      {
+        "path": "j72/i205do54/i205do54.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i205do54/i205do54.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I226FM10",
+    "file": "i226fm10.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i226fm10.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21067 – 1411020-12",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "1 Серийная версия на классику 1,6 л.",
+    "id_cell_raw": "I226FM10",
+    "local_dir": "j72/i226fm10",
+    "archive": "archives/i226fm10.rar",
+    "files": [
+      {
+        "path": "j72/i226fm10/I226FM10.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I201CO56",
+    "file": "i201co56.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i201co56.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "11183 – 1411020-22",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "1 Серийная версия на Калину 1,6 л.",
+    "id_cell_raw": "I201CO56",
+    "local_dir": "j72/i201co56",
+    "archive": "archives/i201co56.rar",
+    "files": [
+      {
+        "path": "j72/i201co56/I201CO56.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i201co56/I201CO56.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I201CO57",
+    "file": "i201co57.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i201co57.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "11183 – 1411020-22",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "2 Серийная версия на Калину 1,6 л.",
+    "id_cell_raw": "I201CO57",
+    "local_dir": "j72/i201co57",
+    "archive": "archives/i201co57.rar",
+    "files": [
+      {
+        "path": "j72/i201co57/I201CO57.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I201CO58",
+    "file": "i201co58.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i201co58.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "11183 – 1411020-22",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «Ителма»",
+    "note": "3 Серийная версия на Калину 1,6 л.\n\nОтличие от I201CO57 – раздельные пороги вкл./выкл. вентиляторов.",
+    "id_cell_raw": "I201CO58",
+    "local_dir": "j72/i201co58",
+    "archive": "archives/i201co58.rar",
+    "files": [
+      {
+        "path": "j72/i201co58/I201CO58.bin",
+        "size": 42080,
+        "kind": "сжатый SMS-Soft/Combiloader"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A203EK34",
+    "file": "a203ek34.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a203ek34.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-81",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "1 Серийная версия",
+    "id_cell_raw": "A203EK34",
+    "local_dir": "j72/a203ek34",
+    "archive": "archives/a203ek34.rar",
+    "files": [
+      {
+        "path": "j72/a203ek34/A203EK34-00EC.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a203ek34/A203EK34-0308.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a203ek34/A203EK34.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      },
+      {
+        "path": "j72/a203ek34/config.txt",
+        "size": 235,
+        "kind": "235 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A203EL35",
+    "file": "a203el35.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a203el35.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-81",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "2 Серийная версия",
+    "id_cell_raw": "A203EL35",
+    "local_dir": "j72/a203el35",
+    "archive": "archives/a203el35.rar",
+    "files": [
+      {
+        "path": "j72/a203el35/A203EL35-8871.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a203el35/A203EL35-A1A3.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a203el35/A203EL35-A2A3.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a203el35/A203EL35.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      },
+      {
+        "path": "j72/a203el35/config.txt",
+        "size": 239,
+        "kind": "239 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A203EL36",
+    "file": "a203el36.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a203el36.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2111 – 1411020-81",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "3 Серийная версия",
+    "id_cell_raw": "A203EL36",
+    "local_dir": "j72/a203el36",
+    "archive": "archives/a203el36.rar",
+    "files": [
+      {
+        "path": "j72/a203el36/A203el36.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A204DM53",
+    "file": "a204dm53.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a204dm53.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21114 – 1411020-31",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "2 Серийная версия для двигателя 21114 (1,6)",
+    "id_cell_raw": "A204DM53",
+    "local_dir": "j72/a204dm53",
+    "archive": "archives/a204dm53.rar",
+    "files": [
+      {
+        "path": "j72/a204dm53/A204DM53.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a204dm53/A204DM53.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A204DO57",
+    "file": "a204do57.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a204do57.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21114 – 1411020-31",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "3 Серийная версия для двигателя 21114 (1,6)",
+    "id_cell_raw": "A204DO57",
+    "local_dir": "j72/a204do57",
+    "archive": "archives/a204do57.rar",
+    "files": [
+      {
+        "path": "j72/a204do57/DO57/A204DO57.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a204do57/DO57/A204DO57.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A205DM53",
+    "file": "a205dm53.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a205dm53.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21124 – 1411020-31",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "1 Серийная версия для двигателя 21124 (1,6)",
+    "id_cell_raw": "A205DM53",
+    "local_dir": "j72/a205dm53",
+    "archive": "archives/a205dm53.rar",
+    "files": [
+      {
+        "path": "j72/a205dm53/A205DM53-000C.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a205dm53/readme.txt",
+        "size": 162,
+        "kind": "162 Б"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A205DO54",
+    "file": "a205do54.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a205do54.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21124 – 1411020-31",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "2 Серийная версия для двигателя 21124 (1,6)",
+    "id_cell_raw": "A205DO54",
+    "local_dir": "j72/a205do54",
+    "archive": "archives/a205do54.rar",
+    "files": [
+      {
+        "path": "j72/a205do54/A205DO54.bin",
+        "size": 131072,
+        "kind": "ПЗУ 128 КБ"
+      },
+      {
+        "path": "j72/a205do54/A205DO54.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A205DO57",
+    "file": "a205do57.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a205do57.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21124 – 1411020-31",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "3 Серийная версия для двигателя 21124 (1,6)",
+    "id_cell_raw": "A205DO57",
+    "local_dir": "j72/a205do57",
+    "archive": "archives/a205do57.rar",
+    "files": [
+      {
+        "path": "j72/a205do57/A205DO57.bin",
+        "size": 131072,
+        "kind": "ПЗУ 128 КБ"
+      },
+      {
+        "path": "j72/a205do57/A205DO57.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "A226FM10",
+    "file": "a226fm10.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a226fm10.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "21067 – 1411020-11",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "1 Серийная версия на классику 1,6 л.",
+    "id_cell_raw": "A226FM10",
+    "local_dir": "j72/a226fm10",
+    "archive": "archives/a226fm10.rar",
+    "files": [
+      {
+        "path": "j72/a226fm10/A226FM10.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a226fm10/A226FM10.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "А201СО56",
+    "file": "a201co56.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a201co56.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "11183 – 1411020-21",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "1 Серийная версия на Калину (под 7.2)",
+    "id_cell_raw": "А201СО56",
+    "local_dir": "j72/a201co56",
+    "archive": "archives/a201co56.rar",
+    "files": [
+      {
+        "path": "j72/a201co56/A201CO56.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/a201co56/A201CO56_.bin",
+        "size": 45315,
+        "kind": "сжатый SMS-Soft/Combiloader"
+      },
+      {
+        "path": "j72/a201co56/A201CO56_.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "А201СО57",
+    "file": "a201co57.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a201co57.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "11183 – 1411020-21",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "2 Серийная версия на Калину (под 7.2)",
+    "id_cell_raw": "А201СО57",
+    "local_dir": "j72/a201co57",
+    "archive": "archives/a201co57.rar",
+    "files": [
+      {
+        "path": "j72/a201co57/A201CO57_.bin",
+        "size": 45307,
+        "kind": "сжатый SMS-Soft/Combiloader"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "А201СО58",
+    "file": "a201co58.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/a201co58.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "11183 – 1411020-21",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Январь 7.2 производства «АВТЭЛ»",
+    "note": "3 Серийная версия на Калину (под 7.2)",
+    "id_cell_raw": "А201СО58",
+    "local_dir": "j72/a201co58",
+    "archive": "archives/a201co58.rar",
+    "files": [
+      {
+        "path": "j72/a201co58/A201CO58_.bin",
+        "size": 131072,
+        "kind": "ПЗУ 128 КБ"
+      },
+      {
+        "path": "j72/a201co58/A201CO58_.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "ASUPER11",
+    "file": "asuper11.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/asuper11.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "-",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Прошивки ОПП для Январь 7.2",
+    "note": "Прошивка для двигателя 21128 (1,8л)",
+    "id_cell_raw": "ASUPER11",
+    "local_dir": "j72/asuper11",
+    "archive": "archives/asuper11.rar",
+    "files": [
+      {
+        "path": "j72/asuper11/ASUPER11.bin",
+        "size": 43286,
+        "kind": "сжатый SMS-Soft/Combiloader"
+      },
+      {
+        "path": "j72/asuper11/ASUPER11.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  },
+  {
+    "family": "Январь 7.2",
+    "ecu": "7.2",
+    "software_id": "I233LO10",
+    "file": "i233lo10.rar",
+    "url": "https://chiptuner.ru/wp-content/firmware/J72/i233lo10.rar",
+    "date": null,
+    "checksum_published": null,
+    "rom_check_disabled": false,
+    "vaz_number": "2130 – 1411020-13",
+    "emission_norm": "Е2",
+    "manufacturer_section": "Прошивки ОПП для Январь 7.2",
+    "note": "Прошивка, на основе ПО I204DO57 для «длинной» Нивы. Без ДФ.",
+    "id_cell_raw": "I233LO10",
+    "local_dir": "j72/i233lo10",
+    "archive": "archives/i233lo10.rar",
+    "files": [
+      {
+        "path": "j72/i233lo10/I233LO10.bin",
+        "size": 65536,
+        "kind": "ПЗУ 64 КБ"
+      },
+      {
+        "path": "j72/i233lo10/I233LO10.eep",
+        "size": 512,
+        "kind": "EEPROM"
+      }
+    ]
+  }
+]
